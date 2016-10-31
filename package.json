@@ -1,0 +1,22 @@
+{
+	"name": "fis-deploy-htmlformat",
+	"version": "0.0.1",
+	"description": "format html",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/xitingwang/fis-deploy-htmlformat.git"
+	},
+	"keywords": [
+		"fis", "fis3", "deploy", "formatter",
+		"html"
+	],
+	"dependencies": {
+		"js-beautify": "*"
+	},
+	"author": "dw_wangchao1 <wangchao1@yy.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/xitingwang/fis-deploy-htmlformat"
+	}
+}
