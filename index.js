@@ -1,6 +1,5 @@
 /*
- * fis3-postprocessor-html
- * fisker Cheung<lionkay@gmail.com>
+ * fis-deploy-htmlformat
  */
 
 'use strict';
